@@ -1,4 +1,4 @@
-# RT-CAN ( RGB-Thermal Cross Attention Network)        Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark
+# Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark
 
 [paper]( https://arxiv.org/abs/2403.17712)  
 
