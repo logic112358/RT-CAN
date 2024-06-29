@@ -1,6 +1,11 @@
 # Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark
 
-[Paper](https://arxiv.org/abs/2403.17712) | [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z)
+### [Paper](https://arxiv.org/abs/2403.17712) | [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z)
+
+## Authors
+
+- [Jue Wang*](https://a-new-b.github.io/)<sup>1,3</sup>, [Yuxiang Lin*](https://lum1104.github.io/)<sup>2</sup>, Qi Zhao<sup>3</sup>, Dong Luo<sup>3</sup>, Shuaibao Chen<sup>3</sup>, Wei Chen<sup>3</sup>, [Xiaojiang Peng](https://pengxj.github.io/)<sup>2</sup>
+- <sup>1</sup>[Southern University of Science and Technology](https://www.sustech.edu.cn/en/), <sup>2</sup>[Shenzhen Technology University](https://english.sztu.edu.cn/), <sup>3</sup>[Shenzhen Institute of Technology, CAS](https://www.siat.ac.cn/) [Jue and Yuxiang contribute equally to this work.]
 
 If you are interested in our work, please star ⭐ our project.
 
