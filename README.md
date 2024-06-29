@@ -1,8 +1,14 @@
 # Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark
 
-[paper]( https://arxiv.org/abs/2403.17712)  
+[Paper](https://arxiv.org/abs/2403.17712) | [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z)
 
 If you are interested in our work, please star ⭐ our project.
+
+## Training dataset preparation
+- Prepare our Gas-DB dataset: please download in [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z).
+
+Code will be made available soon. Stay tuned!
+
 ## RGB-Thermal Cross Attention Network
 ![ Illustration the architecture of RGB-Thermal Two Stream Cross Attention Network. (a) Two stream RGB-ThermaR Cl Encoder, (b) Cascaded Decoder.](https://github.com/logic112358/image/blob/main/20240529163048.png)
 
@@ -19,19 +25,16 @@ This figure shows an overview of our Gas-DB, containing 8 kinds of scenery, cont
 ![The visualization of the prediction comparisons from different methods](https://github.com/logic112358/image/blob/main/20240529155745.png)
 
 The visualization of the prediction comparisons from different methods, according to the rows from top to bottom in order: RGB; Thermal; Ground Truth; PSPNet; Segformer; YOLOv5; MFNet; EAEFNet; Ours.
-## Training dataset preparation
-- Prepare our Gas-DB dataset: please download in [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z).
 
 ## Contact   
-For any question, feel free to email <j.wang2@siat.ac.cn>.
+For any question, feel free to email <j.wang2@siat.ac.cn> and <yuxiang.lin@gatech.edu>.
 
-## Citation   
->@misc{wang2024invisible,  
-      title={Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark}, 
-      author={Jue Wang and Yuxiang Lin and Qi Zhao and Dong Luo and Shuaibao Chen and Wei Chen and Xiaojiang Peng},
-      year={2024},
-      eprint={2403.17712},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-      }
-
+## Citation
+```
+@article{RT-CAN,
+  title={Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark},
+  author={Wang, Jue and Lin, Yuxiang and Zhao, Qi and Luo, Dong and Chen, Shuaibao and Chen, Wei and Peng, Xiaojiang},
+  journal={arXiv preprint arXiv:2403.17712},
+  year={2024}
+}
+```
