@@ -36,7 +36,7 @@ For any question, feel free to email <j.wang2@siat.ac.cn> and <yuxiang.lin@gatec
 
 ## Citation
 ```
-@article{WANG2024104099,
+@article{RT-CAN,
   title = {Invisible gas detection: An RGB-thermal cross attention network and a new benchmark},
   journal = {Computer Vision and Image Understanding},
   pages = {104099},
