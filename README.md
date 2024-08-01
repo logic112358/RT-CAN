@@ -36,10 +36,14 @@ For any question, feel free to email <j.wang2@siat.ac.cn> and <yuxiang.lin@gatec
 
 ## Citation
 ```
-@article{RT-CAN,
-  title={Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark},
-  author={Wang, Jue and Lin, Yuxiang and Zhao, Qi and Luo, Dong and Chen, Shuaibao and Chen, Wei and Peng, Xiaojiang},
-  journal={arXiv preprint arXiv:2403.17712},
-  year={2024}
+@article{WANG2024104099,
+  title = {Invisible gas detection: An RGB-thermal cross attention network and a new benchmark},
+  journal = {Computer Vision and Image Understanding},
+  pages = {104099},
+  year = {2024},
+  issn = {1077-3142},
+  doi = {https://doi.org/10.1016/j.cviu.2024.104099},
+  url = {https://www.sciencedirect.com/science/article/pii/S1077314224001802},
+  author = {Jue Wang and Yuxiang Lin and Qi Zhao and Dong Luo and Shuaibao Chen and Wei Chen and Xiaojiang Peng},
 }
 ```
