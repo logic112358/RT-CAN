@@ -1,6 +1,6 @@
 # Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark 
 *Accepted to CVIU (JCR Q1, CCF rank B)* 🎉🎉🥳🥳
-### [Paper](https://arxiv.org/abs/2403.17712) | [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z)
+### [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314224001802) | [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z)
 
 ## Authors
 
@@ -37,13 +37,16 @@ For any question, feel free to email <j.wang2@siat.ac.cn> and <yuxiang.lin@gatec
 ## Citation
 ```
 @article{RT-CAN,
-  title = {Invisible gas detection: An RGB-thermal cross attention network and a new benchmark},
-  journal = {Computer Vision and Image Understanding},
-  pages = {104099},
-  year = {2024},
-  issn = {1077-3142},
-  doi = {https://doi.org/10.1016/j.cviu.2024.104099},
-  url = {https://www.sciencedirect.com/science/article/pii/S1077314224001802},
-  author = {Jue Wang and Yuxiang Lin and Qi Zhao and Dong Luo and Shuaibao Chen and Wei Chen and Xiaojiang Peng},
+title = {Invisible gas detection: An RGB-thermal cross attention network and a new benchmark},
+journal = {Computer Vision and Image Understanding},
+volume = {248},
+pages = {104099},
+year = {2024},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104099},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224001802},
+author = {Jue Wang and Yuxiang Lin and Qi Zhao and Dong Luo and Shuaibao Chen and Wei Chen and Xiaojiang Peng},
+keywords = {Gas detection, Computer vision, RGB-Thermal, Gas-DB},
+abstract = {The widespread use of various chemical gases in industrial processes necessitates effective measures to prevent their leakage during transportation and storage, given their high toxicity. Thermal infrared-based computer vision detection techniques provide a straightforward approach to identify gas leakage areas. However, the development of high-quality algorithms has been challenging due to the low texture in thermal images and the lack of open-source datasets. In this paper, we present the RGB-Thermal Cross Attention Network (RT-CAN), which employs an RGB-assisted two-stream network architecture to integrate texture information from RGB images and gas area information from thermal images. Additionally, to facilitate the research of invisible gas detection, we introduce Gas-DB, an extensive open-source gas detection database including about 1.3K well-annotated RGB-thermal images with eight variant collection scenes. Experimental results demonstrate that our method successfully leverages the advantages of both modalities, achieving state-of-the-art (SOTA) performance among RGB-thermal methods, surpassing single-stream SOTA models in terms of accuracy, Intersection of Union (IoU), and F2 metrics by 4.86%, 5.65%, and 4.88%, respectively. The code and data can be found at https://github.com/logic112358/RT-CAN.}
 }
 ```
