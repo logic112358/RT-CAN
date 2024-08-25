@@ -1,6 +1,6 @@
 # Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark 
 *Accepted to CVIU (JCR Q1, CCF rank B)* 🎉🎉🥳🥳
-### [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314224001802) | [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z)
+### [Paper (Latest version)](https://www.sciencedirect.com/science/article/abs/pii/S1077314224001802) | [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z)
 
 ## Authors
 
