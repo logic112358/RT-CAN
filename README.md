@@ -11,9 +11,25 @@ If you are interested in our work, please star ⭐ our project.
 
 ## Training dataset preparation
 - Prepare our Gas-DB dataset: please download in [Gas-DB](https://drive.google.com/file/d/1NkN1K41KmDhf3wuyi5W9UNDK1oV09xKb/view?usp=sharing).
-
-Code will be made available soon. Stay tuned!
-
+## Code
+### Setup
+```
+conda create -n RT-CAN python==3.8.16
+conda activate RT-CAN
+pip install -r requirements.txt
+```
+### Train
+```
+python train.py
+```
+### Test
+```
+python test.py
+```
+### Infetence
+```
+python inference.py
+```
 ## RGB-Thermal Cross Attention Network
 ![ Illustration the architecture of RGB-Thermal Two Stream Cross Attention Network. (a) Two stream RGB-ThermaR Cl Encoder, (b) Cascaded Decoder.](https://github.com/logic112358/image/blob/main/20240529163048.png)
 

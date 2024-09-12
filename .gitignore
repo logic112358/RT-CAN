@@ -1,0 +1,85 @@
+# 忽略操作系统生成的文件 #
+#########################
+
+# Mac OS #
+.DS_Store
+
+# Windows #
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 忽略编辑器和IDE生成的文件 #
+#############################
+
+# Visual Studio Code #
+.vscode/
+
+# IntelliJ IDEA #
+.idea/
+
+# PyCharm #
+*.iml
+.idea/
+
+# Jupyter Notebook #
+.ipynb_checkpoints/
+
+# 忽略Python生成的文件 #
+########################
+
+# Byte-compiled / optimized Python #
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略环境和依赖 #
+#################
+
+# Virtualenv #
+.venv/
+venv/
+ENV/
+
+# Pyenv #
+.python-version
+
+# Pipenv #
+.Pipfile.lock
+
+# Poetry #
+.poetry/
+pyproject.toml
+poetry.lock
+
+# 忽略日志和临时文件 #
+#####################
+
+# Logs #
+logs/
+*.log
+
+# Runtime data #
+pids/
+*.pid
+*.seed
+
+# Temp files #
+*.bak
+*.swp
+*~
+
+# 忽略PyTorch模型权重文件 #
+###########################
+
+# PyTorch models #
+*.pth
+
+dataset
+
+results*
+
+
+
+runs/tensorboard_log
+checkpoints
