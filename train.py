@@ -171,7 +171,6 @@ if __name__ == '__main__':
         sys.exit('no such type model.')
 
     model = GasSegNet(args.n_class,num_resnet_layers=num_resnet_layers)
-    # model = EAEFNet(args.n_class)
     if args.gpu >= 0:
         model.cuda(args.gpu)
     if args.weight:
