@@ -10,7 +10,7 @@
 If you are interested in our work, please star ⭐ our project.
 
 ## Training dataset preparation
-- Prepare our Gas-DB dataset: please download in [Gas-DB](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z?usp=sharing).
+- Prepare our Gas-DB dataset: please download in [Google Drive](https://drive.google.com/drive/folders/11t324MSRVQhptfLLu65MlPaSaPOJRf4Z?usp=sharing), or [OneDrive](https://gtvault-my.sharepoint.com/:u:/g/personal/ylin805_gatech_edu/EV0tqemUlN9JtYt5wp8cvhMB7jDrUBvFzfxCjj93zc8pig?e=y1vr5k).
 ## Code
 ### Setup
 ```
